@@ -79,7 +79,7 @@ Visual insights generated from the data:
 
 &nbsp;  ```
 
-2\. Set up the database using `schema.sql`.
+2\. Set up the database using `patient_risk_schema.sql`.
 
 3\. Run analysis scripts or notebooks to generate insights.
 
@@ -102,5 +102,6 @@ Visual insights generated from the data:
 │   └── hospital\_patient\_count.png
 
 ```
+
 
 
