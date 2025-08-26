@@ -24,4 +24,4 @@ Star schema with:
 5. Deployment
 
 ## Authors
-- Your Name
+- Kethamreddy Pallavi
