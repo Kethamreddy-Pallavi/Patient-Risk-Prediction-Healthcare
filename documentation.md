@@ -23,5 +23,5 @@ Star schema with:
 4. Evaluation
 5. Deployment
 
-## Authors
+## Author
 - Kethamreddy Pallavi
