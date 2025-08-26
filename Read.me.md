@@ -74,7 +74,8 @@ Visual insights generated from the data:
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/your-username/patient-risk-prediction.git
+&nbsp;  git clone Patient-Risk-Prediction-Healthcare/patient_risk_schema.sql at main · Kethamreddy-Pallavi/Patient-Risk-Prediction-Healthcare
+ 
 
 &nbsp;  ```
 
@@ -101,4 +102,5 @@ Visual insights generated from the data:
 │   └── hospital\_patient\_count.png
 
 ```
+
 
