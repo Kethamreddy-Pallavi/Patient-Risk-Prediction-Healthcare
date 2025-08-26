@@ -1,0 +1,4 @@
+patient_id,age,gender,hospital_id,diagnosis_id,lab_result,risk_score
+P001,65,Female,H001,D001,7.8,0.85
+P002,50,Male,H002,D002,5.4,0.45
+P003,72,Female,H001,D003,9.1,0.92
