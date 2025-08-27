@@ -1,0 +1,4 @@
+patient_id,age,source,risk_label,hospital_id
+1,45.0,Referral,1,101
+2,60.5,Walk-in,2,102
+3,30.2,Online,0,103
