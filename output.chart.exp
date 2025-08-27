@@ -1,0 +1,16 @@
+The bar chart titled "Prediction Distribution" shows how many patients were classified into each risk category by your logistic regression model.
+
+ Chart Explanation:
+X-axis (Predicted Risk Label):
+This represents the predicted risk level for each patient. In your dataset, the labels are:
+
+0: Low risk
+1: Medium risk
+2: High risk (if included in future data)
+Y-axis (Number of Patients):
+This shows how many patients were predicted to fall into each risk category.
+
+What It Tells Is:
+If the bar for 1.0 is higher than 0.0, it means more patients were predicted to be at medium risk.
+If the bar for 0.0 is higher, it means most patients are predicted to be at low risk.
+This helps to understand the distribution of risk in  patient population and whether the model is biased toward predicting a certain class.
