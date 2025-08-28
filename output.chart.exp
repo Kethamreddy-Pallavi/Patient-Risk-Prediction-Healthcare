@@ -13,4 +13,5 @@ This shows how many patients were predicted to fall into each risk category.
 What It Tells Is:
 If the bar for 1.0 is higher than 0.0, it means more patients were predicted to be at medium risk.
 If the bar for 0.0 is higher, it means most patients are predicted to be at low risk.
+
 This helps to understand the distribution of risk in  patient population and whether the model is biased toward predicting a certain class.
